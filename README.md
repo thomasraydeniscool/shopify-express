@@ -6,6 +6,12 @@
 
 A small set of abstractions that will help you quickly build an Express.js app that consumes the Shopify API.
 
+## Installation
+
+```
+npm install --save shopify-express
+```
+
 ## Example
 
 ```javascript
